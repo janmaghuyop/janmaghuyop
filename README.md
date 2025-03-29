@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning engineering productivity.
 - 💞️ I’m looking to collaborate on platform engineering and automation.
 - 📫 jan.maghuyop.ph@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/janmaghuyop/) | [UpWork](https://www.upwork.com/freelancers/~01d40ed7aed9d24636)
