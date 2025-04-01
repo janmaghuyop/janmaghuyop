@@ -1,5 +1,4 @@
-# I'm Jan
-- 👋 Hi there!
+### Hi 👋, I'm Jan.
 - 👀 I’m interested in programming and tech.
 - 🌱 I’m currently learning engineering productivity.
 - 🚀 I’m looking to collaborate on platform engineering and automation.
