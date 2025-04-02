@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning engineering productivity.
 - 🚀 I’m looking to collaborate on platform engineering and automation.
 ## 📡 Contact
-jan.maghuyop.ph@gmail.com | [Website](https://janmaghuyop.github.io/) | [LinkedIn](https://www.linkedin.com/in/janmaghuyop/) | [UpWork](https://www.upwork.com/freelancers/~01d40ed7aed9d24636)
+me@janmaghuyop.com | [Website](https://janmaghuyop.com) | [LinkedIn](https://www.linkedin.com/in/janmaghuyop/) | [UpWork](https://www.upwork.com/freelancers/~01d40ed7aed9d24636)
 ## ⚡️ Technologies
 Kubernetes ArgoCD Docker Terraform Linux Git ELK Bash Python Ruby AWS GCP OCI
